@@ -10,13 +10,6 @@ h1 {
 	padding-top: 12px;
 }
 
-a {
-	color : #FFFFFF;
-	text-decoration: none;
-	position: relative;
-	top: -18px;
-}
-
 #banner{
 	background-color: #333399;
 	border-radius	: 40px;
@@ -28,9 +21,19 @@ a {
 .navbar{
 	font-size   	: 24px;
 	font-family 	: Verdana;
-	padding-bottom	: 0px;
 }
 
 .link {
-	margin-left: 8%;
+	margin-left		: 8%;
+	color			: #FFFFFF;
+	position		: relative;
+	top				: -18px;
+	text-decoration	: none;
+}
+
+.contact_us {
+	font-family		: Verdana;
+	font-size		: 24px;
+	color			: #333399;
+	text-decoration	: none;
 }
