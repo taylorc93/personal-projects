@@ -1,0 +1,36 @@
+body {
+	background-color: #FFFFFF;
+}
+
+h1 {
+	color: #FFFFFF;
+	text-align: center;
+	font-family: Tahoma;
+	font-size  : 48px;
+	padding-top: 12px;
+}
+
+a {
+	color : #FFFFFF;
+	text-decoration: none;
+	position: relative;
+	top: -18px;
+}
+
+#banner{
+	background-color: #333399;
+	border-radius	: 40px;
+	color			: #FFFFFF;
+	position		: relative;
+	top				: -20px; 
+}
+
+.navbar{
+	font-size   	: 24px;
+	font-family 	: Verdana;
+	padding-bottom	: 0px;
+}
+
+.link {
+	margin-left: 8%;
+}
