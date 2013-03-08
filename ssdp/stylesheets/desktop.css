@@ -1,33 +1,40 @@
-body {
-	background-color: #FFFFFF;
+html {
+	padding-left	: 50px;
+	padding-right	: 50px;
+	min-height		: 100%;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#eaeaea), 
+	to(#084B8A));
+	background-size	: 100%;
 }
 
 h1 {
-	color: #FFFFFF;
-	text-align: center;
-	font-family: Tahoma;
-	font-size  : 48px;
-	padding-top: 12px;
+	color		: #FFFFFF;
+	text-align	: center;
+	font-family	: Tahoma;
+	font-size	: 48px;
+	padding-top	: 12px;
 }
 
 #banner{
-	background-color: #333399;
-	border-radius	: 40px;
-	color			: #FFFFFF;
 	position		: relative;
-	top				: -20px; 
+	background-color: #084B8A;
+	color			: #FFFFFF;
+	top				: -15px; 
+	border-radius	: 50px;
 }
 
-.navbar{
-	font-size   	: 24px;
-	font-family 	: Verdana;
+.navlink{
+	position	: relative;
+	top			: -15px;
+	font-size   : 24px;
+	font-family : Verdana;
+	display		: inline;
+	margin-left	: 5%;
 }
 
-.link {
-	margin-left		: 8%;
+.link{
+	margin-left		: 2%;
 	color			: #FFFFFF;
-	position		: relative;
-	top				: -18px;
 	text-decoration	: none;
 }
 
